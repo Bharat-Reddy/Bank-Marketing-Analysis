@@ -1,5 +1,4 @@
 # Bank-Marketing-Analysis
-# Bank-Marketing-Campaign-Analysis
 
 - Analyzed the prior marketing campaigns of a Portuguese Bank using various ML techniques like Logistic Regression, Random Forests,Decision Trees, Gradient Boosting and AdaBoost and predicted if the user will buy the Bank’s term deposit or not
 
