@@ -5,6 +5,7 @@
 
 - Recommended, the marketing team, ways to better target customers using feature importance maps and business intuition
 
+- For More Information regarding dataset used, refer https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
 ### Instructions to run the code:
 1. All the data(raw data as well as pre-processed data) is present in "Data" folder.
