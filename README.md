@@ -24,3 +24,5 @@ Make sure all the dependencies used in the notebook are installed in the local m
 
 ### Comparision of various classifiers.
 ![Alt text](classifier.png?raw=true "Title")
+
+## For detailed information regarding the project, please refer to the report.
